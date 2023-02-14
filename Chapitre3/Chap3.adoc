@@ -1,0 +1,22 @@
+= Chapitre 3 - Les tris simples (Simple Sorting)
+
+== Références :
+----
+Manuel : Data structures and algorithm in Python 3, de John Canning, Alan Broder et Robert Lafore. Pearson/Addison-Wesley
+https://www.informit.com/store/data-structures-algorithms-in-python-9780134855684
+----
+image::https://www.informit.com/ShowCover.aspx?isbn=013485568X[,200,400]
+
+====
+Les principaux tris simples expliqués sont :
+
+* Le tri à bulles (Bubble Sort)
+* Le tri par sélection (Selection Sort)
+* Le tri par insertion (Insertion Sort)
+
+D'autres tris simples sont expérimentés dans les exercices :
+
+* Le tri cocktail
+* Le tri impair-pair
+
+====
