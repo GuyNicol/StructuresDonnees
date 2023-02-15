@@ -5,7 +5,7 @@
 Manuel : Data structures and algorithm in Python 3, de John Canning, Alan Broder et Robert Lafore. Pearson/Addison-Wesley
 https://www.informit.com/store/data-structures-algorithms-in-python-9780134855684
 ----
-image::https://www.informit.com/ShowCover.aspx?isbn=013485568X[,200,400]
+image::https://www.informit.com/ShowCover.aspx?isbn=013485568X[,25%]
 
 ====
 Les principaux tris simples expliqués sont :
@@ -17,6 +17,8 @@ Les principaux tris simples expliqués sont :
 D'autres tris simples sont expérimentés dans les exercices :
 
 * Le tri cocktail
+** Ce tri est une variation bidirectionelle du tri à bulles dans lequel, durant la même passe, l'élément le plus grand se déplace à droite et, au retour, l'élément le monde grand se déplace à gauche.
 * Le tri impair-pair
+** Ce tri fonctionne en deux stades qui se répètent. D'abord, les éléments impairs sont comparés et échangés si nécessaire avec leurs éléments suivants et ensuite, on fait la même chose avec les éléments pairs. On recommence tant qu'il y a des éléments qui ne sont pas en ordre.
 
 ====
