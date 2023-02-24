@@ -7,6 +7,14 @@ https://www.informit.com/store/data-structures-algorithms-in-python-978013485568
 ----
 image::https://www.informit.com/ShowCover.aspx?isbn=013485568X[,25%]
 
+
+image::./10829397484_26bc676522_o.jpg[]
+
+image::00003-1517032041-Brick_wall.pn.png[]
+
+image::/../../../../../Pictures/00002-2957473147-Closed_window.png[]
+
+
 ====
 Les principaux tris simples expliqués sont :
 
@@ -20,5 +28,6 @@ D'autres tris simples sont expérimentés dans les exercices :
 ** Ce tri est une variation bidirectionelle du tri à bulles dans lequel, durant la même passe, l'élément le plus grand se déplace à droite et, au retour, l'élément le monde grand se déplace à gauche.
 * Le tri impair-pair
 ** Ce tri fonctionne en deux stades qui se répètent. D'abord, les éléments impairs sont comparés et échangés si nécessaire avec leurs éléments suivants et ensuite, on fait la même chose avec les éléments pairs. On recommence tant qu'il y a des éléments qui ne sont pas en ordre.
+Ce tri ne se termine qu'après une phase où il n'y a eu aucun échange. À cause de ça, on peut supposer qu'il aura toujours un plus grand nombres d'étapes que les autres tris simples.
 
 ====
